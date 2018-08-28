@@ -33,7 +33,7 @@ class ContactFormController extends Controller
             'email' => $request->email,
             'message' => $request->message
         );
-        $email = 'emils.gulbis@gmail.com';
+        $email = 'rexsteroxy22@gmail.com';
         Mail::to($email)->send(new ContactForm($data));
 
         return response()->json(['success' => true]);
