@@ -39238,7 +39238,7 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("p", { staticClass: "text-muted" }, [
               _vm._v(
-                "The BATTLE  is not against who we have been, It is an all out war against who we are BECOMING."
+                "The BATTLE  is not against who we have been, It is an all out war against who we are BECOMING. Much Love To Humanity."
               )
             ])
           ])

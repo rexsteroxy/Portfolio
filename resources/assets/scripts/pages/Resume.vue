@@ -91,7 +91,7 @@
 				<div class="list-group-item">
 					<p class="item-date">2017-2018</p>
 					<p class="item-title">Motto!</p>
-					<p class="text-muted">The BATTLE  is not against who we have been, It is an all out war against who we are BECOMING.</p>
+					<p class="text-muted">The BATTLE  is not against who we have been, It is an all out war against who we are BECOMING. Much Love To Humanity.</p>
 				</div>
 			</div>
 		</section>
