@@ -39188,7 +39188,7 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "list-group-item" }, [
-            _c("p", { staticClass: "item-date" }, [_vm._v("2013-2015")]),
+            _c("p", { staticClass: "item-date" }, [_vm._v("2017-Present")]),
             _vm._v(" "),
             _c("p", { staticClass: "item-title" }, [
               _vm._v("Lusshub ("),
@@ -39202,7 +39202,7 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "list-group-item" }, [
-            _c("p", { staticClass: "item-date" }, [_vm._v("2010 - 2013")]),
+            _c("p", { staticClass: "item-date" }, [_vm._v("2015 - Present")]),
             _vm._v(" "),
             _c("p", { staticClass: "item-title" }, [
               _vm._v("I.k Computer Solution Center")
@@ -39232,7 +39232,7 @@ var staticRenderFns = [
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "list-group-item" }, [
-            _c("p", { staticClass: "item-date" }, [_vm._v("2012-2013")]),
+            _c("p", { staticClass: "item-date" }, [_vm._v("2017-2018")]),
             _vm._v(" "),
             _c("p", { staticClass: "item-title" }, [_vm._v("Motto!")]),
             _vm._v(" "),

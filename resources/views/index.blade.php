@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Rexsteroxy | Back-end developer</title>
-    <meta name="description" content="Love to craft beautiful designs into live user interfaces with the best user experience in mind">
+    <meta name="description" content="The future CEO of Google">
     <link rel="icon" href="/favicon.png" sizes="64x64">
     <link rel="stylesheet" href="/css/app.css">
     <meta name="theme-color" content="#4c33fb">

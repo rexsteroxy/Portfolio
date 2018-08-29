@@ -68,12 +68,12 @@
 					<p class="text-muted">Back-end / Full Stack developer</p>
 				</div>
 				<div class="list-group-item">
-					<p class="item-date">2013-2015</p>
+					<p class="item-date">2017-Present</p>
 					<p class="item-title">Lusshub (<em>office</em>)</p>
 					<p class="text-muted">Full Stack/developer</p>
 				</div>
 				<div class="list-group-item">
-					<p class="item-date">2010 - 2013</p>
+					<p class="item-date">2015 - Present</p>
 					<p class="item-title">I.k Computer Solution Center</p>
 					<p class="text-muted">Software developer</p>
 				</div>
@@ -89,7 +89,7 @@
 					<p class="text-muted">Bachelor of Computer Science</p>
 				</div>
 				<div class="list-group-item">
-					<p class="item-date">2012-2013</p>
+					<p class="item-date">2017-2018</p>
 					<p class="item-title">Motto!</p>
 					<p class="text-muted">The BATTLE  is not against who we have been, It is an all out war against who we are BECOMING.</p>
 				</div>
