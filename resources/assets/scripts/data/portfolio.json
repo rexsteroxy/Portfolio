@@ -1,6 +1,13 @@
 [
 	
 	
+	{
+		"title" : "KAKABET",
+		"url" : "http://kakabet.herokuapp.com",
+		"date" : "2016-03",
+		"task" : "A game prediction site for all game lovers",
+		"thumbnail" : "/images/portfolio/kakabet.jpg"
+	},
 	
 	
 	{
@@ -13,7 +20,7 @@
 	{
 		"title" : "LUSSHUB",
 		"url" : "https://lusshub.herokuapp.com",
-		"date" : "2017-02",
+		"date" : "2017-03",
 		"task" : "E-commerse site for sale of laptops and computer accessories",
 		"thumbnail" : "/images/portfolio/lusshub.jpg"
 	},
@@ -25,10 +32,10 @@
 		"thumbnail" : "/images/portfolio/simple.jpg"
 	},
 	{
-		"title" : "KAKABET",
-		"url" : "http://kakabet.herokuapp.com",
+		"title" : "Edukit",
+		"url" : "http://edukitt.herokuapp.com",
 		"date" : "2017-10",
-		"task" : "A game prediction site for all game lovers.",
-		"thumbnail" : "/images/portfolio/kakabet.jpg"
+		"task" : "Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ",
+		"thumbnail" : "/images/portfolio/edukit.jpg"
 	}
 ]

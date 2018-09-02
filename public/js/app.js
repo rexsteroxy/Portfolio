@@ -38599,7 +38599,7 @@ var staticRenderFns = [
               {
                 staticClass: "nav-link",
                 attrs: {
-                  href: "https://www.linkedin.com/in/Amadi Austin/",
+                  href: "https://www.linkedin.com/in/amadiaustinchukwuemeka/",
                   target: "_blank"
                 }
               },
@@ -38613,7 +38613,7 @@ var staticRenderFns = [
               {
                 staticClass: "nav-link",
                 attrs: {
-                  href: "https://twitter.com/AMADIAUSTINCHUKWUEMEKA",
+                  href: "https://twitter.com/AMADIAUSTINCHU1",
                   target: "_blank"
                 }
               },
@@ -52861,7 +52861,7 @@ module.exports = Component.exports
 /***/ "./resources/assets/scripts/data/portfolio.json":
 /***/ (function(module, exports) {
 
-module.exports = [{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs","thumbnail":"/images/portfolio/maria.jpg"},{"title":"LUSSHUB","url":"https://lusshub.herokuapp.com","date":"2017-02","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-04","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"KAKABET","url":"http://kakabet.herokuapp.com","date":"2017-10","task":"A game prediction site for all game lovers.","thumbnail":"/images/portfolio/kakabet.jpg"}]
+module.exports = [{"title":"KAKABET","url":"http://kakabet.herokuapp.com","date":"2016-03","task":"A game prediction site for all game lovers","thumbnail":"/images/portfolio/kakabet.jpg"},{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs","thumbnail":"/images/portfolio/maria.jpg"},{"title":"LUSSHUB","url":"https://lusshub.herokuapp.com","date":"2017-03","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-04","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"Edukit","url":"http://edukitt.herokuapp.com","date":"2017-10","task":"Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ","thumbnail":"/images/portfolio/edukit.jpg"}]
 
 /***/ }),
 

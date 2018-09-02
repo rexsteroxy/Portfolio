@@ -18,12 +18,12 @@
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://www.linkedin.com/in/Amadi Austin/" target="_blank">
+  					<a class="nav-link" href="https://www.linkedin.com/in/amadiaustinchukwuemeka/" target="_blank">
   						<i class="fa fa-linkedin"></i>
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://twitter.com/AMADIAUSTINCHUKWUEMEKA" target="_blank">
+  					<a class="nav-link" href="https://twitter.com/AMADIAUSTINCHU1" target="_blank">
   						<i class="fa fa-twitter"></i>
   					</a>
   				</li>
