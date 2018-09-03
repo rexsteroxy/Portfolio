@@ -18,18 +18,18 @@
 		"thumbnail" : "/images/portfolio/maria.jpg"
 	},
 	{
-		"title" : "LUSSHUB",
-		"url" : "https://lusshub.herokuapp.com",
-		"date" : "2017-03",
-		"task" : "E-commerse site for sale of laptops and computer accessories",
-		"thumbnail" : "/images/portfolio/lusshub.jpg"
-	},
-	{
 		"title" : "PROSIMPLICITY",
 		"url" : "prosimplicity.000webhostapp.com",
-		"date" : "2017-04",
+		"date" : "2017-03",
 		"task" : "A building construction site and services",
 		"thumbnail" : "/images/portfolio/simple.jpg"
+	},
+	{
+		"title" : "LUSSHUB",
+		"url" : "https://lusshub.herokuapp.com",
+		"date" : "2017-04",
+		"task" : "E-commerse site for sale of laptops and computer accessories",
+		"thumbnail" : "/images/portfolio/lusshub1.jpg"
 	},
 	{
 		"title" : "Edukit(Messenger Bot)",
