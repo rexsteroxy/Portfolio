@@ -38613,7 +38613,7 @@ var staticRenderFns = [
               {
                 staticClass: "nav-link",
                 attrs: {
-                  href: "https://twitter.com/AMADIAUSTINCHU1",
+                  href: "https://twitter.com/rexsteroxxy",
                   target: "_blank"
                 }
               },

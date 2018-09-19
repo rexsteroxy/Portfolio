@@ -23,7 +23,7 @@
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://twitter.com/AMADIAUSTINCHU1" target="_blank">
+  					<a class="nav-link" href="https://twitter.com/rexsteroxxy" target="_blank">
   						<i class="fa fa-twitter"></i>
   					</a>
   				</li>
