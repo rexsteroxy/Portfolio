@@ -38488,11 +38488,13 @@ var render = function() {
           "p",
           { staticClass: "text-muted" },
           [
-            _vm._v("My name is Amadi Austin and I love to develop"),
+            _vm._v("A Computer Science Student Of"),
             _c("br"),
-            _vm._v("Great Projects."),
+            _vm._v("IMO STATE UNIVERSITY OWERRI."),
             _c("br"),
-            _vm._v("I am the famous Rexsterxoy from "),
+            _vm._v("Am a simple guy who loves Tech and Programming."),
+            _c("br"),
+            _vm._v("Am living in->"),
             _c(
               "router-link",
               { staticClass: "link--styled", attrs: { to: "/contact" } },
@@ -52861,7 +52863,7 @@ module.exports = Component.exports
 /***/ "./resources/assets/scripts/data/portfolio.json":
 /***/ (function(module, exports) {
 
-module.exports = [{"title":"KAKABET","url":"http://pacash.herokuapp.com","date":"2016-03","task":"A game prediction site for all game lovers","thumbnail":"/images/portfolio/pacash.jpg"},{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs and music information","thumbnail":"/images/portfolio/maria.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-03","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"LUSSHUB","url":"https://lusshub.herokuapp.com","date":"2017-04","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub1.jpg"},{"title":"Edukit(Messenger Bot)","url":"http://edukitt.herokuapp.com","date":"2017-10","task":"Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ","thumbnail":"/images/portfolio/edukit.jpg"}]
+module.exports = [{"title":"PACASH","url":"http://pacash.herokuapp.com","date":"2016-03","task":"A game prediction site for all game lovers","thumbnail":"/images/portfolio/pacash.jpg"},{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs and music information","thumbnail":"/images/portfolio/maria.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-03","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"LUSSHUB","url":"https://lusshub.herokuapp.com","date":"2017-04","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub1.jpg"},{"title":"Edukit(Messenger Bot)","url":"http://edukitt.herokuapp.com","date":"2017-10","task":"Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ","thumbnail":"/images/portfolio/edukit.jpg"}]
 
 /***/ }),
 
