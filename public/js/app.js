@@ -38488,7 +38488,7 @@ var render = function() {
           "p",
           { staticClass: "text-muted" },
           [
-            _vm._v("I'm Amadi Austin and I love to develop"),
+            _vm._v("My name is Amadi Austin and I love to develop"),
             _c("br"),
             _vm._v("Great Projects."),
             _c("br"),
