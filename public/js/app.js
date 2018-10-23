@@ -38488,11 +38488,13 @@ var render = function() {
           "p",
           { staticClass: "text-muted" },
           [
-            _vm._v("A Computer Science Student Of"),
+            _vm._v("Austin  is a Computer Science Major"),
             _c("br"),
             _vm._v("IMO STATE UNIVERSITY OWERRI."),
             _c("br"),
-            _vm._v("Am a simple guy who loves Tech and Programming."),
+            _vm._v(
+              "He is a full stack web developer who spends his spare time teaching other students how to code.He is also an ingressive campus ambassador for Imo state university."
+            ),
             _c("br"),
             _vm._v("Am living in->"),
             _c(
