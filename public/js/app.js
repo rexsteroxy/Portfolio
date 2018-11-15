@@ -38488,12 +38488,12 @@ var render = function() {
           "p",
           { staticClass: "text-muted" },
           [
-            _vm._v("Austin  is a Computer Science Major"),
+            _vm._v("Austin  is a Computer Science Major in"),
             _c("br"),
-            _vm._v("IMO STATE UNIVERSITY OWERRI."),
+            _vm._v("IMO STATE UNIVERSITY "),
             _c("br"),
             _vm._v(
-              "He is a full stack web developer who spends his spare time teaching other students how to code.He is also an ingressive campus ambassador for Imo state university."
+              "He is a software developer who spends his spare time teaching other students how to code.He is also an ingressive campus ambassador for Imo state university."
             ),
             _c("br"),
             _vm._v("Am living in->"),
@@ -39187,7 +39187,7 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("p", { staticClass: "text-muted" }, [
-              _vm._v("Back-end / Full Stack developer")
+              _vm._v("Back-end / Software developer")
             ])
           ]),
           _vm._v(" "),
@@ -39201,7 +39201,7 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("p", { staticClass: "text-muted" }, [
-              _vm._v("Full Stack/developer")
+              _vm._v("Software developer")
             ])
           ]),
           _vm._v(" "),
@@ -52865,7 +52865,7 @@ module.exports = Component.exports
 /***/ "./resources/assets/scripts/data/portfolio.json":
 /***/ (function(module, exports) {
 
-module.exports = [{"title":"PACASH","url":"http://pacash.herokuapp.com","date":"2016-03","task":"A game prediction site for all game lovers","thumbnail":"/images/portfolio/pacash.jpg"},{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs and music information","thumbnail":"/images/portfolio/maria.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-03","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"LUSSHUB","url":"https://lusshub.herokuapp.com","date":"2017-04","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub1.jpg"},{"title":"Edukit(Messenger Bot)","url":"http://edukitt.herokuapp.com","date":"2017-10","task":"Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ","thumbnail":"/images/portfolio/edukit.jpg"}]
+module.exports = [{"title":"PACASH","url":"http://pacash.herokuapp.com","date":"2016-03","task":"A game prediction site for all game lovers","thumbnail":"/images/portfolio/pacash.jpg"},{"title":"Chrismaria","url":"http://chrismaria.herokuapp.com/","date":"2016-03","task":"Collection of all catholic Songs and music information","thumbnail":"/images/portfolio/maria.jpg"},{"title":"PROSIMPLICITY","url":"prosimplicity.000webhostapp.com","date":"2017-03","task":"A building construction site and services","thumbnail":"/images/portfolio/simple.jpg"},{"title":"LUSSHUB","url":"https://www.lusshub.com","date":"2017-04","task":"E-commerse site for sale of laptops and computer accessories","thumbnail":"/images/portfolio/lusshub.jpg"},{"title":"Edukit(Messenger Bot)","url":"http://edukitt.herokuapp.com","date":"2017-10","task":"Edukitt brings learning to you in ways you enjoy,Games, chat and all that good stuff. ","thumbnail":"/images/portfolio/edukit.jpg"}]
 
 /***/ }),
 

@@ -26,10 +26,10 @@
 	},
 	{
 		"title" : "LUSSHUB",
-		"url" : "https://lusshub.herokuapp.com",
+		"url" : "https://www.lusshub.com",
 		"date" : "2017-04",
 		"task" : "E-commerse site for sale of laptops and computer accessories",
-		"thumbnail" : "/images/portfolio/lusshub1.jpg"
+		"thumbnail" : "/images/portfolio/lusshub.jpg"
 	},
 	{
 		"title" : "Edukit(Messenger Bot)",

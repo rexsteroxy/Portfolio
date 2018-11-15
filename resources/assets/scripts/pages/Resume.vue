@@ -65,12 +65,12 @@
 				<div class="list-group-item">
 					<p class="item-date">2018 - Present</p>
 					<p class="item-title">Working remotely</p>
-					<p class="text-muted">Back-end / Full Stack developer</p>
+					<p class="text-muted">Back-end / Software developer</p>
 				</div>
 				<div class="list-group-item">
 					<p class="item-date">2017-Present</p>
 					<p class="item-title">Lusshub (<em>office</em>)</p>
-					<p class="text-muted">Full Stack/developer</p>
+					<p class="text-muted">Software developer</p>
 				</div>
 				<div class="list-group-item">
 					<p class="item-date">2015 - Present</p>
