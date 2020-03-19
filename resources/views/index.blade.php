@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Rexsteroxy | Back-end developer</title>
     <meta name="description" content="The future CEO of Google">
-    <link rel="icon" href="/favicon.png" sizes="64x64">
     <link rel="stylesheet" href="/css/app.css">
     <meta name="theme-color" content="#4c33fb">
 </head>
